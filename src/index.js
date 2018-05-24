@@ -23,7 +23,7 @@ class App extends React.Component {
       <div>
         <p>
           {this.state.citation}
-          <span>{this.state.auteur}</span>
+          <span>- {this.state.auteur}</span>
         </p>
         <button onClick={e => this.genererCitation(e)}>Une autre citation!</button>
       </div>
