@@ -9,12 +9,20 @@ class App extends React.Component {
 
     state = {};
 
+    componentWillMount() {
+        this.genererCitation();
+    }
+
     genererCitation = event => {
-        // Translate citates in array
+        // Translate citation in array
         const keyArray = Object.keys(citations);
-        // Random citate
+        // Random citation
         const randomKey = keyArray[Math.floor(Math.random() * keyArray.
             length)];
+        if (this.state.citation === citations[randomKey].citation) {
+            this.genererCitation();
+            return
+        }
         this.setState(citations[randomKey]);
     };
 
