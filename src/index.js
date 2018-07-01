@@ -17,8 +17,7 @@ class App extends React.Component {
         // Translate citation in array
         const keyArray = Object.keys(citations);
         // Random citation
-        const randomKey = keyArray[Math.floor(Math.random() * keyArray.
-            length)];
+        const randomKey = keyArray[Math.floor(Math.random() * keyArray.length)];
         if (this.state.citation === citations[randomKey].citation) {
             this.genererCitation();
             return
@@ -33,7 +32,7 @@ class App extends React.Component {
                     {this.state.citation}
                     <span>- {this.state.auteur}</span>
                 </p>
-                <button onClick={e => this.genererCitation(e)}>Une autre citation!</button>
+                <button onClick={e => this.genererCitation(e)}>Once agaaain !</button>
             </div>
         )
     }

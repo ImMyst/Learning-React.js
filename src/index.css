@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300i');
+
 body {
     margin: 0;
     padding-bottom: 0;
+    overflow: hidden;
+    background-color: #fafafa;
 }
 
 *::selection {
     color: white;
-    background: #F50057;
+    background: #FA6900;
 }
 
 #root {
@@ -15,14 +20,13 @@ body {
     align-items: center;
 
     font-size: 50px;
-    font-family: monospace;
+    font-family: 'Questrial', sans-serif;
     color: #263238;
-    /*border: 5px solid purple;*/
+    border-top: 5px solid #69d2e7;
 }
 
 #root > * {
     width: 960px;
-
 }
 
 span {
@@ -30,15 +34,16 @@ span {
     text-align: right;
     margin-top: 50px;
     color: #455A64;
+    font-family: 'Raleway', sans-serif;
 }
 
 button {
     width: 100%;
     font-size: 40px;
     padding: 5px;
-    font-family: monospace;
+    font-family: 'Questrial', sans-serif;
     border: none;
-    background-color: #0091EA;
+    background-color: #69d2e7;
     color: white;
     border-radius: 2px;
     cursor: pointer;
@@ -46,8 +51,12 @@ button {
     box-shadow: 0 3px 5px rgba(0,0,0,0.2);
     transition: 0.2s;
 }
+
+button:hover {
+    transform: scale(1.03);
+}
+
 button:active {
     transform: translateY(5px);
     box-shadow: 0 1px 5px rgba(0,0,0,0.4);
 }
-
