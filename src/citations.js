@@ -61,27 +61,27 @@ module.exports = {
     },
     citation16: {
         auteur: 'René Descartes',
-        citation: 'Je pense, donc je suis',
+        citation: 'Je pense, donc je suis.',
     },
     citation17: {
         auteur: 'Socrate',
-        citation: 'Ce que je sais, c’est que je ne sais rien',
+        citation: 'Ce que je sais, c’est que je ne sais rien.',
     },
     citation18: {
         auteur: 'Friedrich Nietzsche',
-        citation: 'Dieu est mort',
+        citation: 'Dieu est mort.',
     },
     citation19: {
         auteur: 'Thomas Hobbes',
-        citation: 'L’homme est un loup pour l’homme',
+        citation: 'L’homme est un loup pour l’homme.',
     },
     citation20: {
         auteur: 'Blaise Pascal',
-        citation: 'L’homme n’est qu’un roseau, le plus faible des roseaux, mais c’est un roseau pensant',
+        citation: 'L’homme n’est qu’un roseau, le plus faible des roseaux, mais c’est un roseau pensant.',
     },
     citation21: {
         auteur: 'Simone De Beauvoir',
-        citation: 'On ne naît pas femme, on le devient',
+        citation: 'On ne naît pas femme, on le devient.',
     },
     citation22: {
         auteur: 'Confucius',
@@ -89,34 +89,85 @@ module.exports = {
     },
     citation23: {
         auteur: 'Romain Dalegre',
-        citation: 'J`ai pas faim',
+        citation: 'J`ai pas faim.',
     },
     citation24: {
         auteur: 'La Fouine',
-        citation: 'Si ton iPhone explose à cause de la batterie, c’est la merde, mais ne confond pas siri et la Syrie',
+        citation: 'Si ton iPhone explose à cause de la batterie, c’est la merde, mais ne confond pas siri et la Syrie.',
     },
     citation25: {
         auteur: 'Orelsan',
-        citation: 'J’crache dans tes règles ça fait ketchup-mayo ',
+        citation: 'J’crache dans tes règles ça fait ketchup-mayo.',
     },
     citation26: {
         auteur: 'JUL',
-        citation: 'On m’appelle l’OVNI',
+        citation: 'On m’appelle l’OVNI.',
     },
     citation27: {
         auteur: 'Kalash Criminel',
-        citation: 'Je suis albinos parce que j’suis né pour briller',
+        citation: 'Je suis albinos parce que j’suis né pour briller.',
     },
     citation28: {
         auteur: 'Kalash Criminel',
-        citation: 'J’serai surement millionaire si niquer des mères était un métier',
+        citation: 'J’serai surement millionaire si niquer des mères était un métier.',
     },
     citation29: {
         auteur: 'BigFlo & Oli',
-        citation: 'Au royaume des aveugles, le roi, est un aveugle qui dit aux autres aveugles qu’il voit',
+        citation: 'Au royaume des aveugles, le roi, est un aveugle qui dit aux autres aveugles qu’il voit.',
     },
     citation30: {
         auteur: 'Jazzy Bazz',
-        citation: 'Ton visage n’est pas très joli à voir, pour toi, le port de la burqa devrait être obligatoire',
+        citation: 'Ton visage n’est pas très joli à voir, pour toi, le port de la burqa devrait être obligatoire.',
+    },
+
+    citation31: {
+        auteur: 'Karadoc et Perceval',
+        citation: 'C`est pas faux !',
+    },
+
+    citation32: {
+        auteur: 'Karadoc',
+        citation: 'Le gras c`est la vie.',
+    },
+
+    citation33: {
+        auteur: 'Perceval',
+        citation: 'A ROULETTES !!',
+    },
+
+    citation34: {
+        auteur: 'Gandhalf',
+        citation: 'VOUS ... NE PASSEREZ ... PAS !',
+    },
+
+    citation35: {
+        auteur: 'Amonbofils',
+        citation: 'Pas de pierre : pas de construction. Pas de construction : pas de palais. Pas de palais... pas de palais.',
+    },
+
+    citation36: {
+        auteur: 'Otis',
+        citation: 'Mais vous savez, moi je ne crois pas qu`il y ait de bonnes ou de mauvaises situations. Moi, si je devais résumer ma vie, aujourd`hui avec vous, je dirais que c`est d´abord des rencontres, des gens qui m`ont tendu la main peut-être à un moment où je ne pouvais pas, où j`étais seul chez moi. Et c`est assez curieux de se dire que les hasards, les rencontres forgent une destinée. Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l`interlocuteur en face, je dirais le miroir qui vous aide à avancer.Alors ce n`est pas mon cas, comme je disais là, puisque moi au contraire j`ai pu, et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie, je ne suis qu`amour. Et finalement quand beaucoup de gens aujourd`hui me disent : "Mais comment fais-tu pour avoir cette humanité ?" eh bien je leur réponds très simplement, je leur dis : "C`est ce goût de l´amour", ce goût donc, qui m`a poussé aujourd`hui à entreprendre une construction mécanique, mais demain qui sait ? Peut-être simplement à me mettre au service de la communauté, à faire le don, le don de soi.',
+    },
+
+    citation37: {
+        auteur: 'Kadoc',
+        citation: 'Pour savoir s’il va y avoir du vent, il faut mettre son doigt dans le cul du coq.',
+    },
+
+    citation38: {
+        auteur: 'Perceval',
+        citation: 'On en a gros.',
+    },
+
+    citation39: {
+        auteur: 'Eric',
+        citation: 'Marie-Joëlle est morte ? Marie-Joëlle est en danger ? Marie-Joëlle est malade ? Marie-Joëlle est partie ? Marie-Joëlle est en vacances ? Marie-Joëlle se rebiffe ? La revanche de Marie-Joëlle ?',
+    },
+
+    citation40: {
+        auteur: 'Eric',
+        citation: 'Wawww ! Ça fait comme des pizzas quatre-chaussures !',
     }
+
 };
