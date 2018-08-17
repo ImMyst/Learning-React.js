@@ -166,8 +166,43 @@ module.exports = {
     },
 
     citation40: {
-        auteur: 'Eric',
-        citation: 'Wawww ! Ça fait comme des pizzas quatre-chaussures !',
+        auteur: 'Alkapote',
+        citation: 'Pute, pute, pute, pute, pute, pute, pute, pute Pute, pute, pute, pute, pute, pute, pute, pute, Salope, plus haut, plus haut, plus haut, plus haut, plus haut, plus haut, plus haut Plus haut, plus haut, plus haut, plus haut, plus haut, plus haut, plus haut.',
+    },
+
+    citation41: {
+        auteur: 'Alkapote',
+        citation: 'J\'pisse à la raie de ceux qui nous chient dans les bottes.',
+    },
+
+    citation42: {
+        auteur: 'Alkapote',
+        citation: 'J\'fais d’une pierre deux coups, et d’une capote deux trous.',
+    },
+
+    citation43: {
+        auteur: 'Alkapote',
+        citation: 'Même au fond de ta grotte, la Terre tourne et au fond de ta gorge, le sperme coule.',
+    },
+
+    citation44: {
+        auteur: 'Alkapote',
+        citation: 'Ferme ta bouche, frère, devant mes trouble-fêtes, ouvre-la seulement pendant les douches de sperme.',
+    },
+
+    citation45: {
+        auteur: 'Alkapote',
+        citation: 'On vient fourrer Blandine, j\'aime quand ton putain de gros cul se dandine (j\'aime ton cul). J\'te prends de haut et de dos surtout car faut qu\'t\'ailles chez l\'dentiste (en urgence).',
+    },
+
+    citation46: {
+        auteur: 'Alkapote',
+        citation: 'On n\'est pas sorti d\'l\'auberge, ta copine obèse avale c\'qui est sorti d\'nos verges (splash).',
+    },
+
+    citation47: {
+        auteur: 'Alkapote',
+        citation: 'J\'arrive en force dans cette salope. Dans le corps de cette salope. De toutes mes forces dans cette salope. Crache encore dans cette salope',
     }
 
 };
