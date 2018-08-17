@@ -1,5 +1,5 @@
 {
-  "name": "generateurDeCitations",
+  "name": "citation-generator",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
