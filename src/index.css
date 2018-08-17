@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding-bottom: 0;
     overflow: hidden;
-    background-color: #fafafa;
+    background-image: radial-gradient(white, grey 95%);
 }
 
 *::selection {
@@ -44,7 +44,7 @@ button {
     font-family: 'Questrial', sans-serif;
     border: none;
     background-color: #69d2e7;
-    color: white;
+    color: #263238;
     border-radius: 2px;
     cursor: pointer;
     outline: none;
