@@ -203,6 +203,11 @@ module.exports = {
     citation47: {
         auteur: 'Alkapote',
         citation: 'J\'arrive en force dans cette salope. Dans le corps de cette salope. De toutes mes forces dans cette salope. Crache encore dans cette salope',
+    },
+
+    citation48: {
+        auteur: 'Florian Robert',
+        citation: 'Les graines de courge c\'est la vie',
     }
 
 };
