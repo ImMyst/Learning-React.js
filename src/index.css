@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Questrial');
-@import url('https://fonts.googleapis.com/css?family=Raleway:300i');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
 body {
     margin: 0;
@@ -19,7 +19,7 @@ body {
     align-items: center;
 
     font-size: 50px;
-    font-family: 'Questrial', sans-serif;
+    font-family: 'Gloria Hallelujah', sans-serif;
     color: #263238;
     border-top: 5px solid #69d2e7;
 }
@@ -33,14 +33,15 @@ span {
     text-align: right;
     margin-top: 50px;
     color: #455A64;
-    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    font-family: 'Permanent Marker', sans-serif;
 }
 
 button {
     width: 100%;
     font-size: 40px;
     padding: 5px;
-    font-family: 'Questrial', sans-serif;
+    font-family: 'Permanent Marker', sans-serif;
     border: none;
     background-color: #69d2e7;
     color: #263238;
