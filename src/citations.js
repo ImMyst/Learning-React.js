@@ -208,6 +208,31 @@ module.exports = {
     citation48: {
         auteur: 'Florian Robert',
         citation: 'Les graines de courge c\'est la vie',
+    },
+
+    citation49: {
+        auteur: 'Kaaris',
+        citation: 'Tant mieux si t\'as un trop gros boule, j\'ai le permis camion',
+    },
+
+    citation50: {
+        auteur: 'Kaaris',
+        citation: 'On transporte avec nous la came, je recrache fumée blanche ils disent tous Habemus Papam.',
+    },
+
+    citation51: {
+        auteur: 'Kaaris',
+        citation: 'Le bouchon de liège est dans ton anus, Et je pousse encore avec mon phallus.',
+    },
+
+    citation52: {
+        auteur: 'Kaaris',
+        citation: 'Avec ma p’tite copine, on s’pète la tête au GIN. J’la baise complètement dead comme si j’étais nécrophile.',
+    },
+
+    citation53: {
+        auteur: 'Seth Gueko',
+        citation: 'Salam à tous les Romanichels. Salam à ma mère elle s’appelle Michelle.',
     }
 
 };
