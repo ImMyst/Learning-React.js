@@ -112,7 +112,7 @@ module.exports = {
         citation: 'J’serai surement millionaire si niquer des mères était un métier.',
     },
     citation29: {
-        auteur: 'BigFlo & Oli',
+        auteur: 'BigFlo et Oli',
         citation: 'Au royaume des aveugles, le roi, est un aveugle qui dit aux autres aveugles qu’il voit.',
     },
     citation30: {
