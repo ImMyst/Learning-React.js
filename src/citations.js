@@ -233,6 +233,45 @@ module.exports = {
     citation53: {
         auteur: 'Seth Gueko',
         citation: 'Salam à tous les Romanichels. Salam à ma mère elle s’appelle Michelle.',
-    }
+    },
 
+    citation54: {
+        auteur: 'Kikesa',
+        citation: 'Ta meuf c\'est un octet, dedans y\'a 8 bits',
+    },
+
+    citation55: {
+        auteur: 'Grégoire Margotto',
+        citation: 'PAVAAAAAAAAAAARD',
+    },
+
+    citation56: {
+        auteur: 'Dimitri Crackers (Kemar)',
+        citation: 'France !',
+    },
+
+    citation57: {
+        auteur: 'Kemar',
+        citation: '*Low kick !*',
+    },
+
+    citation58: {
+        auteur: 'Moi',
+        citation: 'Exa',
+    },
+
+    citation59: {
+        auteur: 'Kemar',
+        citation: 'J\'aimerais avoir 1% de sa confiance en lui',
+    },
+
+    citation60: {
+        auteur: 'Kemar',
+        citation: 'Je ne crois pas en Dieu, pourtant j\'en vois deux dans l\'octogone',
+    },
+
+    citation61: {
+        auteur: 'Hugo',
+        citation: 'Masha\'Allah',
+    },
 };
