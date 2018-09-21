@@ -274,4 +274,49 @@ module.exports = {
         auteur: 'Hugo',
         citation: 'Masha\'Allah',
     },
+    
+    citation62: {
+        auteur: 'Les Boss',
+        citation: 'Yes',
+    },
+
+    citation63: {
+        auteur: 'Jamel Dridi',
+        citation: 'Dis moi pas que c\'est pas vrai !',
+    },
+
+    citation64: {
+        auteur: 'Aymé Cesaire',
+        citation: 'Je suis vivant. I\'m a living room !',
+    },
+
+    citation65: {
+        auteur: 'Sabri Said',
+        citation: 'Silence ! Où je fais éjaculer la salle !',
+    },
+
+    citation66: {
+        auteur: 'Aymé Cesaire',
+        citation: 'Attends j’suis pas un menteur, I’m not a mentos!',
+    },
+
+    citation67: {
+        auteur: 'Jamel Dridi',
+        citation: 'Ce week-end je vais lui faire le grand jeu: je vais l’emmener à la Halle aux Chaussures.',
+    },
+
+    citation69: {
+        auteur: 'Sabri Said',
+        citation: 'Il est mort au front... Il est tombé dans les escaliers et il s\'est niqué le front !',
+    },
+
+    citation70: {
+        auteur: 'Aymé Cesaire',
+        citation: 'En ce moment avec Sabri on peut dire que tu es traité comme de la merde, you are traited like a merguez !',
+    },
+
+    citation71: {
+        auteur: 'Aymé Cesaire',
+        citation: 'Le Colonel Pétain on l’appelait comme ça parce que c’etait un vénère ! A chaque fois il disait » pétiiiin j’en ai marre !',
+    },
 };
