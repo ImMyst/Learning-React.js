@@ -202,17 +202,17 @@ module.exports = {
 
     citation47: {
         auteur: 'Alkapote',
-        citation: 'J\'arrive en force dans cette salope. Dans le corps de cette salope. De toutes mes forces dans cette salope. Crache encore dans cette salope',
+        citation: 'J\'arrive en force dans cette salope. Dans le corps de cette salope. De toutes mes forces dans cette salope. Crache encore dans cette salope.',
     },
 
     citation48: {
         auteur: 'Florian Robert',
-        citation: 'Les graines de courge c\'est la vie',
+        citation: 'Les graines de courge c\'est la vie.',
     },
 
     citation49: {
         auteur: 'Kaaris',
-        citation: 'Tant mieux si t\'as un trop gros boule, j\'ai le permis camion',
+        citation: 'Tant mieux si t\'as un trop gros boule, j\'ai le permis camion.',
     },
 
     citation50: {
@@ -237,12 +237,12 @@ module.exports = {
 
     citation54: {
         auteur: 'Kikesa',
-        citation: 'Ta meuf c\'est un octet, dedans y\'a 8 bits',
+        citation: 'Ta meuf c\'est un octet, dedans y\'a 8 bits.',
     },
 
     citation55: {
         auteur: 'Grégoire Margotto',
-        citation: 'PAVAAAAAAAAAAARD',
+        citation: 'PAVAAAAAARD !!!!',
     },
 
     citation56: {
@@ -257,27 +257,27 @@ module.exports = {
 
     citation58: {
         auteur: 'Moi',
-        citation: 'Exa',
+        citation: 'Exa.',
     },
 
     citation59: {
         auteur: 'Kemar',
-        citation: 'J\'aimerais avoir 1% de sa confiance en lui',
+        citation: 'J\'aimerais avoir 1% de sa confiance en lui.',
     },
 
     citation60: {
         auteur: 'Kemar',
-        citation: 'Je ne crois pas en Dieu, pourtant j\'en vois deux dans l\'octogone',
+        citation: 'Je ne crois pas en Dieu, pourtant j\'en vois deux dans l\'octogone.',
     },
 
     citation61: {
         auteur: 'Hugo',
-        citation: 'Masha\'Allah',
+        citation: 'Masha\'Allah.',
     },
     
     citation62: {
         auteur: 'Les Boss',
-        citation: 'Yes',
+        citation: 'Yes.',
     },
 
     citation63: {
@@ -297,7 +297,7 @@ module.exports = {
 
     citation66: {
         auteur: 'Aymé Cesaire',
-        citation: 'Attends j’suis pas un menteur, I’m not a mentos!',
+        citation: 'Attends j’suis pas un menteur, I’m not a mentos !',
     },
 
     citation67: {
