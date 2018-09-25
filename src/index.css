@@ -18,9 +18,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     align-items: center;
-    padding-right: 35px;
-    padding-left: 35px;
-    padding-bottom: 20px;
+    padding: 0px 20px 15px 20px;
 }
 
 #root > * {
