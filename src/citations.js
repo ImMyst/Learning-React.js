@@ -136,7 +136,7 @@ module.exports = {
     },
 
     citation34: {
-        auteur: 'Gandhalf',
+        auteur: 'Gandalf',
         citation: 'VOUS ... NE PASSEREZ ... PAS !',
     },
 
@@ -318,5 +318,15 @@ module.exports = {
     citation71: {
         auteur: 'Aymé Cesaire',
         citation: 'Le Colonel Pétain on l’appelait comme ça parce que c’etait un vénère ! A chaque fois il disait » pétiiiin j’en ai marre !',
+    },
+
+    citation72: {
+        auteur: 'Miaouss',
+        citation: 'Peut être qui si on faisait plus attention à ce qui nous rapproche qu\'à ce qui nous sépare. Et bien... qui sait ?',
+    },
+
+    citation73: {
+        auteur: 'Sinik',
+        citation: 'Tu peux marcher les seins à l\'air pas la tête voilée',
     },
 };
