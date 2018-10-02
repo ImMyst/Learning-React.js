@@ -329,4 +329,54 @@ module.exports = {
         auteur: 'Sinik',
         citation: 'Tu peux marcher les seins à l\'air pas la tête voilée',
     },
+
+    citation74: {
+        auteur: 'Brice De Nice',
+        citation: 'Moi je suis né dans le luxe, c\'est mon élément... Pas le tien apparemment !',
+    },
+
+    citation75: {
+        auteur: 'Numérobis',
+        citation: 'Qu\'est-ce que c\'est que ce pays ? C\'est pas possible. Il fait au moins... -8000 !',
+    },
+
+    citation76: {
+        auteur: 'Numérobis',
+        citation: 'Le mec... Il s\'appelle On ! Donc c\'est le phare-à-On ! Le pharaon !',
+    },
+
+    citation77: {
+        auteur: 'Nexusis',
+        citation: 'Ce tombeau sera votre tombeau !',
+    },
+
+    citation78: {
+        auteur: 'Amonbofis',
+        citation: 'Viens me le dire de profil si t\'es un homme !',
+    },
+
+    citation79: {
+        auteur: 'Michael',
+        citation: 'Euh... Naaan !',
+    },
+
+    citation80: {
+        auteur: 'Michael',
+        citation: 'Je t\'ai toujours dit de ne pas laisser de la nourriture dans ta chambre. Ça va attirer les rats et s\'ils te mordent, ils vont attraper la rage.',
+    },
+
+    citation80: {
+        auteur: 'Michael',
+        citation: 'Mon fils, tu ressembles à une boule de bowling.',
+    },
+
+    citation81: {
+        auteur: 'Franklin',
+        citation: 'Enfin... bref !',
+    },
+
+    citation82: {
+        auteur: 'Michael',
+        citation: 'Euuuuuhhhhhhhhhh... NON !',
+    },
 };
