@@ -365,18 +365,38 @@ module.exports = {
         citation: 'Je t\'ai toujours dit de ne pas laisser de la nourriture dans ta chambre. Ça va attirer les rats et s\'ils te mordent, ils vont attraper la rage.',
     },
 
-    citation80: {
+    citation81: {
         auteur: 'Michael',
         citation: 'Mon fils, tu ressembles à une boule de bowling.',
     },
 
-    citation81: {
+    citation82: {
         auteur: 'Franklin',
         citation: 'Enfin... bref !',
     },
 
-    citation82: {
+    citation83: {
         auteur: 'Michael',
         citation: 'Euuuuuhhhhhhhhhh... NON !',
     },
-};
+
+    citation84: {
+        auteur: 'Hugo',
+        citation: 'Oh my God !!',
+    },
+
+    citation85: {
+        auteur: 'Eva',
+        citation: 'La vodka ça passera mieux que le gin.',
+    },
+
+    citation86: {
+        auteur: 'Sophie',
+        citation: 'RRRROOOOMMMAAAIIINNNN !!',
+    },
+
+    citation87: {
+        auteur: 'Tout le monde',
+        citation: 'Yes.',
+    },
+}
