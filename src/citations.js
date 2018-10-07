@@ -394,9 +394,4 @@ module.exports = {
         auteur: 'Sophie',
         citation: 'RRRROOOOMMMAAAIIINNNN !!',
     },
-
-    citation87: {
-        auteur: 'Tout le monde',
-        citation: 'Yes.',
-    },
 }
