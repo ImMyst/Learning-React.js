@@ -392,6 +392,6 @@ module.exports = {
 
     citation86: {
         auteur: 'Sophie',
-        citation: 'RRRROOOOMMMAAAIIINNNN !!',
+        citation: 'RROOMMAAIINN !!',
     },
 }
