@@ -291,7 +291,7 @@ module.exports = {
     },
 
     citation65: {
-        auteur: 'Sabri Said',
+        auteur: 'Sabri Saïd',
         citation: 'Silence ! Où je fais éjaculer la salle !',
     },
 
@@ -306,7 +306,7 @@ module.exports = {
     },
 
     citation69: {
-        auteur: 'Sabri Said',
+        auteur: 'Sabri Saïd',
         citation: 'Il est mort au front... Il est tombé dans les escaliers et il s\'est niqué le front !',
     },
 
@@ -393,5 +393,45 @@ module.exports = {
     citation86: {
         auteur: 'Sophie',
         citation: 'RROOMMAAIINN !!',
+    },
+
+    citation87: {
+        auteur: 'Inconnu',
+        citation: 'Violer un juif avec un lance-flamme en guise de bite.',
+    },
+
+    citation88: {
+        auteur: 'Inconnu',
+        citation: 'Refaire l\'intérieur de Valérie Damidot.',
+    },
+
+    citation89: {
+        auteur: 'Aymé Cesaire',
+        citation: 'On dirait peut être un peu comme chez moi mais ça sent un peu comme chez ta mère.',
+    },
+
+    citation90: {
+        auteur: 'Sabri Saïd',
+        citation: 'On dirait peut être un peu comme chez moi mais ça sent un peu comme chez ta mère.',
+    },
+
+    citation91: {
+        auteur: 'Gordon Ramsay',
+        citation: 'Dois-je déterrer Hitler pour t\'apprendre à te servir d\'un four ?',
+    },
+
+    citation92: {
+        auteur: 'Inconnu',
+        citation: 'Comment dit-on Alice aux Pays des Merveilles en arabe ? Fatima au Lidl.',
+    },
+
+    citation93: {
+        auteur: 'Inconnu',
+        citation: 'Qui est ce qui est noir et sur une pomme de terre ? Jean Negro Sur La Patate',
+    },
+
+    citation94: {
+        auteur: 'Inconnu',
+        citation: 'Un noir va aux toilettes il en ressort blanc, pourquoi ? Parce qu\'il a chié sa race.',
     },
 }
