@@ -75,7 +75,6 @@ button:active {
     border-radius: 100%;
     border: 1.5px solid #455A64;
     background: linear-gradient(60deg, #69d2e72f ,#fa68002f);
-    padding: 10px;
     margin: 0 350px 0 350px;
     box-shadow: 0 3px 5px rgba(0,0,0,0.2);
     width: 22%;
