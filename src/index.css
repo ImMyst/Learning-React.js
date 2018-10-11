@@ -27,7 +27,6 @@ body {
 
 p {
     font-family: 'Gloria Hallelujah', sans-serif;
-    font-size: 14px;
     color: #263238;
     text-shadow: 2px 2px rgba(0,0,0,0.2);
     font-size: 40px;
@@ -83,4 +82,24 @@ button:active {
 .announcement > p {
     font-size: 18px;
     opacity: .8;
+}
+
+/* Small Device */
+@media screen and (max-width: 500px) {
+
+}
+
+/* Medium Device */
+@media screen and (max-width: 768px) {
+    p {
+        font-size: 34px;
+    }
+
+    button {
+        font-size: 24px;
+    }
+
+    .announcement {
+        display: none;
+    }
 }
