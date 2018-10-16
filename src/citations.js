@@ -434,4 +434,19 @@ module.exports = {
         auteur: 'Inconnu',
         citation: 'Un noir va aux toilettes il en ressort blanc, pourquoi ? Parce qu\'il a chié sa race.',
     },
+
+    citation95: {
+        auteur: 'Coluche',
+        citation: 'La différence qu\'il y a entre les oiseaux et les hommes politiques, c\'est que de temps en temps les oiseaux s\'arrêtent de voler !',
+    },
+
+    citation96: {
+        auteur: 'Coluche',
+        citation: 'Il faut cueillir les cerises avec la queue. J\'avais déjà du mal avec la main !',
+    },
+
+    citation97: {
+        auteur: 'Coluche',
+        citation: 'Il faut cueillir les cerises avec la queue. J\'avais déjà du mal avec la main !',
+    },
 }
