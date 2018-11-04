@@ -327,7 +327,7 @@ module.exports = {
 
     citation73: {
         auteur: 'Sinik',
-        citation: 'Tu peux marcher les seins à l\'air pas la tête voilée',
+        citation: 'Tu peux marcher les seins à l\'air pas la tête voilée.',
     },
 
     citation74: {
@@ -427,7 +427,7 @@ module.exports = {
 
     citation93: {
         auteur: 'Inconnu',
-        citation: 'Qui est ce qui est noir et sur une pomme de terre ? Jean Negro Sur La Patate',
+        citation: 'Qui est ce qui est noir et sur une pomme de terre ? Jean Negro Sur La Patate.',
     },
 
     citation94: {
@@ -442,12 +442,12 @@ module.exports = {
 
     citation96: {
         auteur: 'Bigflo & Oli',
-        citation: 'Quand je soulève une meuf, j\'crie : "Wingardium Leviosa"',
+        citation: 'Quand je soulève une meuf, j\'crie : "Wingardium Leviosa".',
     },
 
     citation97: {
         auteur: 'Le Maître Gims',
-        citation: 'Eeeh oh, c\'est moi, celui qu\'la SACEM ne peut plus payer',
+        citation: 'Eeeh oh, c\'est moi, celui qu\'la SACEM ne peut plus payer.',
     },
     
     citation98: {
@@ -457,11 +457,11 @@ module.exports = {
 
     citation99: {
         auteur: 'Architects',
-        citation: 'I found God clutching a razor blade. He said "look at the fucking mess they\'ve made. They\'d trade their hearts if they were made of gold"',
+        citation: 'I found God clutching a razor blade. He said "look at the fucking mess they\'ve made. They\'d trade their hearts if they were made of gold".',
     },
 
     citation100: {
         auteur: 'Architects',
-        citation: 'All Our Gods Have Abandonned Us',
+        citation: 'All Our Gods Have Abandonned Us.',
     },
 }
