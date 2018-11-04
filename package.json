@@ -2,8 +2,15 @@
   "name": "once-agaaain",
   "version": "0.1.0",
   "description": "Once Agaaain is a citation generator made with React with some funny or hard citations.",
-  "keywords": ["citations", "rap", "funny", "react", "generator", "once agaaain"],
-  "repository": "https://github.com/ImMyst/React-Citation-Generator",
+  "keywords": [
+    "citations",
+    "rap",
+    "funny",
+    "react",
+    "generator",
+    "once agaaain"
+  ],
+  "repository": "https://github.com/ImMyst/Once-Agaaain",
   "homepage": "https://once-agaaain.netlify.com/",
   "author": "Titouan.G / ImMyst",
   "private": true,
@@ -19,5 +26,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
