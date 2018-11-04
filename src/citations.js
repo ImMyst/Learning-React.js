@@ -112,7 +112,7 @@ module.exports = {
         citation: 'J’serai surement millionaire si niquer des mères était un métier.',
     },
     citation29: {
-        auteur: 'BigFlo et Oli',
+        auteur: 'BigFlo & Oli',
         citation: 'Au royaume des aveugles, le roi, est un aveugle qui dit aux autres aveugles qu’il voit.',
     },
     citation30: {
@@ -441,12 +441,27 @@ module.exports = {
     },
 
     citation96: {
+        auteur: 'Bigflo & Oli',
+        citation: 'Quand je soulève une meuf, j\'crie : "Wingardium Leviosa"',
+    },
+
+    citation97: {
+        auteur: 'Le Maître Gims',
+        citation: 'Eeeh oh, c\'est moi, celui qu\'la SACEM ne peut plus payer',
+    },
+    
+    citation98: {
         auteur: 'Coluche',
         citation: 'Il faut cueillir les cerises avec la queue. J\'avais déjà du mal avec la main !',
     },
 
-    citation97: {
-        auteur: 'Coluche',
-        citation: 'Il faut cueillir les cerises avec la queue. J\'avais déjà du mal avec la main !',
+    citation99: {
+        auteur: 'Architects',
+        citation: 'I found God clutching a razor blade. He said "look at the fucking mess they\'ve made. They\'d trade their hearts if they were made of gold"',
+    },
+
+    citation100: {
+        auteur: 'Architects',
+        citation: 'All Our Gods Have Abandonned Us',
     },
 }
