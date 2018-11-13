@@ -463,10 +463,5 @@ module.exports = {
     citation100: {
         auteur: 'Architects',
         citation: 'All Our Gods Have Abandonned Us.',
-    },
-
-    citation101: {
-        auteur: 'Architects',
-        citation: 'All Our Gods Have Abandonned Us.',
-    },
+    }
 }
