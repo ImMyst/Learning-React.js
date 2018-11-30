@@ -1,6 +1,8 @@
 import React from 'react';
 import citations from '../citations';
 import Citation from './Citation';
+import Footer from './Footer';
+import Picture from './Picture';
 
 class App extends React.Component {
 
@@ -10,7 +12,7 @@ class App extends React.Component {
         this.genererCitation();
     }
 
-    genererCitation = event => {
+    genererCitation = e => {
         // Translate citation in array
         const keyArray = Object.keys(citations);
         // Random citation
@@ -27,9 +29,8 @@ class App extends React.Component {
             <div>
                 <Citation details={this.state}/>
                 <button onClick={e => this.genererCitation(e)}>Once agaaain !</button>
-                <div className="announcement">
-                    <p>Les photos des auteurs arrivent bientôt !</p>
-                </div>
+                <Picture/>
+                <Footer/>
             </div>
         )
     }
