@@ -463,5 +463,20 @@ module.exports = {
     citation100: {
         auteur: 'Architects',
         citation: 'All Our Gods Have Abandonned Us.',
+    },
+
+    citation101: {
+        auteur: 'Maréchal Petain',
+        citation: 'On les aura.',
+    },
+
+    citation102: {
+        auteur: 'Lomepal',
+        citation: 'J\'éjacule du style et j\'en ai foutu partout.',
+    },
+
+    citation103: {
+        auteur: 'François Rabelais',
+        citation: 'Rire est le propre de l\'homme',
     }
-}
+};
