@@ -18,7 +18,7 @@
   "author": "Titouan.G / ImMyst",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^2.1.2"
+    "react-scripts": "^2.1.3"
   },
   "dependencies": {
     "react": "^16.7.0",
