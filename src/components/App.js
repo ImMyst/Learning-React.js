@@ -2,7 +2,6 @@ import React from 'react';
 import citations from '../citations';
 import Citation from './Citation';
 import Footer from './Footer';
-import Picture from './Picture';
 
 class App extends React.Component {
 
@@ -29,7 +28,6 @@ class App extends React.Component {
             <div>
                 <Citation details={this.state}/>
                 <button onClick={e => this.genererCitation(e)}>Once agaaain !</button>
-                <Picture/>
                 <Footer/>
             </div>
         )
